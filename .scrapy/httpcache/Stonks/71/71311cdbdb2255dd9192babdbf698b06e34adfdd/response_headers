@@ -1,0 +1,15 @@
+Cache-Control: private, s-maxage=0, max-age=0, must-revalidate, no-store
+Content-Encoding: gzip
+Content-Type: text/html; charset=utf-8
+X-Frame-Options: SAMEORIGIN
+Accept-Ranges: bytes
+Date: Thu, 25 Feb 2021 05:34:02 GMT
+Via: 1.1 varnish
+Vary: Accept-Encoding
+Set-Cookie: loid=0000000000akajnt13.2.1614231238000.Z0FBQUFBQmdOemJHakJGTGl6ZW5JaGZ6VWtLRk9EblBhQTY2aHFpWUZRcWQ5andiWHk5N1Zmbi0yekJkc3N6UEZrOUZRWVQ3RGxKTmhHSUFjbXoxWEZsblpLVERKT1RtVjRGdWdsVkdYVl9uWHNZTDM0b2lOdmF6bXBMOS1hNF9NaHRQQThDT2xNS0c; path=/; expires=Sat, 25 Feb 2023 05:33:58 GMT; domain=.reddit.com; secure; SameSite=None; Secure
+Set-Cookie: session_tracker=cnpaafiphdnhcdmhlj.0.1614231240135.Z0FBQUFBQmdOemJJNDlnLURkVXVKOVhNdVdYblVPM1hnYzBSUUdtR1pyNUotS0NPSm4zMzhZc2lNVDlqY0RZV0VUMzJyRU9ZVExWQ0p4a1lIN1daU1BtaE16d1hKN1dsbDBkRUhjSElDbFNYUmFJcTBUOGNkUU9lZGZVMmY2aVFXRnFFeGI3VFVza24; path=/; domain=.reddit.com; secure; SameSite=None; Secure
+Set-Cookie: token_v2=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MTQyMzQ3MTgsInN1YiI6Ii1fcXQzLTdrWEdBbTNIcjZzU2NtLXMyQWdxTFkiLCJsb2dnZWRJbiI6ZmFsc2UsInNjb3BlcyI6WyIqIiwiZW1haWwiXX0.7vxzJMeVqYAFbsdzS5du_1x1vCfM_AmzkzbbfbRlfWE; Path=/; Domain=reddit.com; Expires=Sat, 25 Feb 2023 05:33:58 GMT; HttpOnly; Secure
+Set-Cookie: csv=1; Max-Age=63072000; Domain=.reddit.com; Path=/; Secure; SameSite=None
+Set-Cookie: edgebucket=l486zjFA37ZDQVeLOz; Domain=reddit.com; Max-Age=63071999; Path=/;  secure
+Strict-Transport-Security: max-age=15552000; includeSubDomains; preload
+Server: snooserv

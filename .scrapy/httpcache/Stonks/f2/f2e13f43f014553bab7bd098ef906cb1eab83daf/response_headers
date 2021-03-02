@@ -1,0 +1,16 @@
+Date: Thu, 25 Feb 2021 05:26:45 GMT
+Content-Type: text/plain;charset=UTF-8
+Set-Cookie: __cfduid=df9ba37c62724d56fd2b838ea2d0325411614230805; expires=Sat, 27-Mar-21 05:26:45 GMT; path=/; domain=.discord.gg; HttpOnly; SameSite=Lax
+Location: https://discord.com/invite/wallstreetbets
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Robots-Tag: noindex, nofollow, noarchive, nocache, noimageindex, noodp
+X-Xss-Protection: 1; mode=block
+Cf-Request-Id: 087940741e00002ef56503e000000001
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Report-To: {"max_age":604800,"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report?s=QoO3I%2FKbm6aKtUh7e3%2B%2BV4Q%2FdNMHuRYV5t7C9hkEus6%2F%2F9pd4WABJkCWpl4BU5NRb84bQBybdcckDQA21CBieztU7wE7eOnf0QcI"}],"group":"cf-nel"}
+Nel: {"report_to":"cf-nel","max_age":604800}
+Vary: Accept-Encoding
+Server: cloudflare
+Cf-Ray: 626f03669ec62ef5-DFW

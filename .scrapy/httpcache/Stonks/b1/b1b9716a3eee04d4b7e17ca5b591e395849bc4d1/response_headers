@@ -1,0 +1,14 @@
+Date: Thu, 25 Feb 2021 05:26:45 GMT
+Content-Type: text/plain
+Set-Cookie: __cfduid=d2a02c8ba844ee90749f5c5b593a164851614230805; expires=Sat, 27-Mar-21 05:26:45 GMT; path=/; domain=.discord.com; HttpOnly; SameSite=Lax; Secure
+Cf-Request-Id: 087940747100009b85b4898000000001
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Report-To: {"max_age":604800,"group":"cf-nel","endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report?s=o6QNgQRZ3mkVJ%2FnKFRC9LdNljokQi60Yir6rsPCZ80fvTgRllz3M4ly5g9cZizQYjuoyzhIxKeWrZrvKO5ugrcu1m0xT0ldGqfWDBg%3D%3D"}]}
+Nel: {"max_age":604800,"report_to":"cf-nel"}
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-Content-Type-Options: nosniff
+Server: cloudflare
+Cf-Ray: 626f03670b689b85-DFW
+Content-Encoding: gzip
+Alt-Svc: h3-27=":443"; ma=86400, h3-28=":443"; ma=86400, h3-29=":443"; ma=86400

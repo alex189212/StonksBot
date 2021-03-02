@@ -1,0 +1,19 @@
+Cache-Control: private, max-age=0, must-revalidate
+Content-Encoding: gzip
+Content-Security-Policy: frame-ancestors 'self' https://*.reddit.com
+Content-Type: text/html; charset=UTF-8
+Expires: 0
+Pragma: no-cache
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+Accept-Ranges: bytes
+Date: Thu, 25 Feb 2021 05:34:06 GMT
+Via: 1.1 varnish
+Vary: Accept-Encoding
+Set-Cookie: session=d5104fbeae5a27e18e3cd1ff1cff2f8de9300440gASVSQAAAAAAAABKzjY3YEdB2A3Ns4cUKH2UjAdfY3NyZnRflIwoZjY1ZGUwMzg1NmFhMTE5NTIwMDljZDgxM2I1NjczNWM0OTg4MGRkNZRzh5Qu; Path=/; secure; HttpOnly
+Set-Cookie: token=; Domain=.reddit.com; Max-Age=0; Path=/; expires=Wed, 31-Dec-97 23:59:59 GMT
+Set-Cookie: csv=1; Max-Age=63072000; Domain=.reddit.com; Path=/; Secure; SameSite=None
+Set-Cookie: edgebucket=UolkBj8iSKTK9gvfbB; Domain=reddit.com; Max-Age=63071999; Path=/;  secure
+Strict-Transport-Security: max-age=15552000; includeSubDomains; preload
+Server: snooserv

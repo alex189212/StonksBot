@@ -1,0 +1,12 @@
+Content-Type: text/plain; charset=utf-8
+Content-Encoding: gzip
+Cache-Control: max-age=0, must-revalidate
+X-Moose: majestic
+Accept-Ranges: bytes
+Date: Thu, 25 Feb 2021 05:14:32 GMT
+Via: 1.1 varnish
+Vary: accept-encoding
+Set-Cookie: csv=1; Max-Age=63072000; Domain=.reddit.com; Path=/; Secure; SameSite=None
+Set-Cookie: edgebucket=VzvABI6LnCA2hPPlxx; Domain=reddit.com; Max-Age=63071999; Path=/;  secure
+Strict-Transport-Security: max-age=15552000; includeSubDomains; preload
+Server: snooserv
